@@ -1,0 +1,6 @@
+@SportsNewsAPI_HostAddress = http://localhost:5186
+
+GET {{SportsNewsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
