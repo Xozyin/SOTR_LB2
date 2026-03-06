@@ -844,3 +844,5 @@ C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI.Tests\obj\Debug\net8.0\refint\Sport
 C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI.Tests\obj\Debug\net8.0\SportsNewsAPI.Tests.pdb
 C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI.Tests\obj\Debug\net8.0\SportsNewsAPI.Tests.genruntimeconfig.cache
 C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI.Tests\obj\Debug\net8.0\ref\SportsNewsAPI.Tests.dll
+C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI.Tests\bin\Debug\net8.0\Mongo2Go.dll
+C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI.Tests\obj\Debug\net8.0\SportsNewsAPI.Tests.sourcelink.json

@@ -2,15 +2,16 @@ using Microsoft.AspNetCore.Mvc.Testing;
 using System.Net;
 using System.Net.Http.Json;
 using SportsNewsAPI.Models;
+using SportsNewsAPI.Tests.Factories;
 
 namespace SportsNewsAPI.Tests
 {
-    public class SportsNewsApiTests : IClassFixture<WebApplicationFactory<Program>>
+    public class SportsNewsApiTests : IClassFixture<ApiFactory>
     {
         private readonly HttpClient _client;
-        private readonly WebApplicationFactory<Program> _factory;
+        private readonly ApiFactory _factory;
 
-        public SportsNewsApiTests(WebApplicationFactory<Program> factory)
+        public SportsNewsApiTests(ApiFactory factory)
         {
             _factory = factory;
             _client = factory.CreateClient();

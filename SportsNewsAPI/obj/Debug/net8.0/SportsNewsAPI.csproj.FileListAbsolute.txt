@@ -75,3 +75,5 @@ C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI\obj\Debug\net8.0\refint\SportsNewsA
 C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI\obj\Debug\net8.0\SportsNewsAPI.pdb
 C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI\obj\Debug\net8.0\SportsNewsAPI.genruntimeconfig.cache
 C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI\obj\Debug\net8.0\ref\SportsNewsAPI.dll
+C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI\bin\Debug\net8.0\Mongo2Go.dll
+C:\Users\User\Desktop\SOTR_LB2\SportsNewsAPI\obj\Debug\net8.0\SportsNewsAPI.sourcelink.json

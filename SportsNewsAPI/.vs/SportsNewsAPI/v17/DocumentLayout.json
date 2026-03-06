@@ -3,7 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\SportsNews\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E452E500-0228-4AC4-A51A-215221DC34C0}|..\\SportsNewsAPI.Tests\\SportsNewsAPI.Tests.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi.tests\\sportsnewsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E452E500-0228-4AC4-A51A-215221DC34C0}|..\\SportsNewsAPI.Tests\\SportsNewsAPI.Tests.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi.tests\\factories\\apifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\models\\sportsnewsdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:models\\sportsnewsdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\controllers\\sportsnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,14 +33,6 @@
       "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:services\\sportsnewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\models\\sportsnewsdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:models\\sportsnewsdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|c:\\users\\user\\desktop\\sotr_lb2\\sportsnewsapi\\models\\sportsnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{357C103C-4BB7-452F-8BBE-C8A72975BDB7}|SportsNewsAPI.csproj|solutionrelative:models\\sportsnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -37,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,20 +60,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SportsNewsApiTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SportsNews\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
-              "RelativeDocumentMoniker": "..\\..\\SportsNews\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SportsNews\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
-              "RelativeToolTip": "..\\..\\SportsNews\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T17:53:57.065Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T17:33:01.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ApiFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI.Tests\\Factories\\ApiFactory.cs",
+              "RelativeDocumentMoniker": "..\\SportsNewsAPI.Tests\\Factories\\ApiFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI.Tests\\Factories\\ApiFactory.cs",
+              "RelativeToolTip": "..\\SportsNewsAPI.Tests\\Factories\\ApiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T17:26:21.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportsNewsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
+              "RelativeDocumentMoniker": "..\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
+              "RelativeToolTip": "..\\SportsNewsAPI.Tests\\SportsNewsApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:29:05.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SportsNewsDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Models\\SportsNewsDTO.cs",
               "RelativeDocumentMoniker": "Models\\SportsNewsDTO.cs",
@@ -74,23 +107,25 @@
               "RelativeToolTip": "Models\\SportsNewsDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:16:30.519Z"
+              "WhenOpened": "2026-03-04T09:16:30.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SportsNewsController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Controllers\\SportsNewsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SportsNewsController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Controllers\\SportsNewsController.cs",
               "RelativeToolTip": "Controllers\\SportsNewsController.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAwwJgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwJgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:09:55.978Z"
+              "WhenOpened": "2026-03-03T20:09:55.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SportsNewsService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Services\\SportsNewsService.cs",
               "RelativeDocumentMoniker": "Services\\SportsNewsService.cs",
@@ -98,23 +133,25 @@
               "RelativeToolTip": "Services\\SportsNewsService.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwEcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:59:57.574Z"
+              "WhenOpened": "2026-03-03T19:59:57.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:57:46.96Z"
+              "WhenOpened": "2026-03-03T19:57:46.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SportsNewsDatabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Models\\SportsNewsDatabaseSettings.cs",
               "RelativeDocumentMoniker": "Models\\SportsNewsDatabaseSettings.cs",
@@ -122,19 +159,21 @@
               "RelativeToolTip": "Models\\SportsNewsDatabaseSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:56:59.299Z"
+              "WhenOpened": "2026-03-03T19:56:59.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SportsNews.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Models\\SportsNews.cs",
               "RelativeDocumentMoniker": "Models\\SportsNews.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SOTR_LB2\\SportsNewsAPI\\Models\\SportsNews.cs",
               "RelativeToolTip": "Models\\SportsNews.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:50:50.237Z"
+              "WhenOpened": "2026-03-03T19:50:50.237Z",
+              "EditorCaption": ""
             }
           ]
         }

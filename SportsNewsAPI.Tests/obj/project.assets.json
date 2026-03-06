@@ -1026,6 +1026,24 @@
           }
         }
       },
+      "Mongo2Go/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "MongoDB.Driver": "3.1.0",
+          "System.Text.Json": "6.0.10"
+        },
+        "compile": {
+          "lib/netstandard2.1/Mongo2Go.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Mongo2Go.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MongoDB.Bson/3.7.0": {
         "type": "package",
         "dependencies": {
@@ -2690,6 +2708,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Mongo2Go": "4.1.0",
           "MongoDB.Driver": "3.7.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -4356,6 +4375,53 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.xml",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Mongo2Go/4.1.0": {
+      "sha512": "QXpNsQj/k50aO5J/bTXP/0Jb43koXqQtoNAmJUuUfZ5DUtpTtsf3IUEYdJ4mAqtC2rqBKWD5lnm7xDaR6993WA==",
+      "type": "package",
+      "path": "mongo2go/4.1.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net472/Mongo2Go.dll",
+        "lib/net472/Mongo2Go.xml",
+        "lib/netstandard2.1/Mongo2Go.dll",
+        "lib/netstandard2.1/Mongo2Go.xml",
+        "mongo2go.4.1.0.nupkg.sha512",
+        "mongo2go.nuspec",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/bin/mongod",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/bin/mongoexport",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/bin/mongoimport",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/community-server/LICENSE-Community.txt",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/community-server/MPL-2",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/community-server/README",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/community-server/THIRD-PARTY-NOTICES",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/database-tools/LICENSE.md",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/database-tools/README.md",
+        "tools/mongodb-linux-4.4.4-database-tools-100.3.1/database-tools/THIRD-PARTY-NOTICES",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/bin/mongod",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/bin/mongoexport",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/bin/mongoimport",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/community-server/LICENSE-Community.txt",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/community-server/MPL-2",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/community-server/README",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/community-server/THIRD-PARTY-NOTICES",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/database-tools/LICENSE.md",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/database-tools/README.md",
+        "tools/mongodb-macos-4.4.4-database-tools-100.3.1/database-tools/THIRD-PARTY-NOTICES",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/bin/mongod.exe",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/bin/mongoexport.exe",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/bin/mongoimport.exe",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/community-server/LICENSE-Community.txt",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/community-server/MPL-2",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/community-server/README",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/community-server/THIRD-PARTY-NOTICES",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/database-tools/LICENSE.md",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/database-tools/README.md",
+        "tools/mongodb-windows-4.4.4-database-tools-100.3.1/database-tools/THIRD-PARTY-NOTICES"
       ]
     },
     "MongoDB.Bson/3.7.0": {
