@@ -1,5 +1,6 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Driver;
+using System.Text.RegularExpressions;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace SportsNewsAPI.Models
@@ -24,6 +25,14 @@ namespace SportsNewsAPI.Models
     public class FilterConfig
     {
         private FilterDefinition<SportsNews> _filter;
+
+        private string escapeRegexSpecChars(string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return input;
+
+            return Regex.Escape(input);
+        }
         public FilterConfig(
             string? titleContains = null,
             string? contentContains = null,
@@ -36,12 +45,12 @@ namespace SportsNewsAPI.Models
 
             if (!string.IsNullOrEmpty(titleContains))
             {
-                _filter &= filterBuilder.Regex(x => x.Title, new BsonRegularExpression(titleContains, "i"));
+                _filter &= filterBuilder.Regex(x => x.Title, new BsonRegularExpression(escapeRegexSpecChars(titleContains), "i"));
             }
 
             if (!string.IsNullOrEmpty(contentContains))
             {
-                _filter &= filterBuilder.Regex(x => x.Content, new BsonRegularExpression(contentContains, "i"));
+                _filter &= filterBuilder.Regex(x => x.Content, new BsonRegularExpression(escapeRegexSpecChars(contentContains), "i"));
             }
 
             if (!string.IsNullOrEmpty(source))
